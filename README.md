@@ -12,18 +12,4 @@ Eu criei este ebook utilizando o ChatGPT para a roteirização, que me ajudou a 
 
 ## 🚀 Resultados
 A parceria entre o ChatGPT e o Canva resultou em um ebook completo, com conteúdo claro e bem estruturado, além de um design atraente e profissional, proporcionando uma experiência fácil e acessível para iniciantes no crochê.
-[Link para o ebook](/exemplos/)
-
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+[Link para o ebook](https://github.com/garciadriana/lab-natty-or-not/blob/main/Introdu%C3%A7%C3%A3o%20ao%20Croch%C3%AA%20-%20O%20B%C3%A1sico%20para%20Come%C3%A7ar.zip)
