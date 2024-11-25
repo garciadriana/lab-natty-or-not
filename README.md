@@ -1,41 +1,19 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Ebook: Introdução ao Crochê - O Básico para Começar
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este ebook de 10 páginas ensina o básico do crochê, abordando materiais necessários, pontos fundamentais (como correntinha, ponto baixo e ponto alto) e passos iniciais para começar a praticar. Oferece dicas de prática e ideias simples para projetos iniciais, como toalhas e flores. Ideal para iniciantes.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa [ChatGPT](https://chatgpt.com) para roteirização;
+IA Generativa do [Canva](https://canva.com) para criar a arte visual e edição do e-book;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Eu criei este ebook utilizando o ChatGPT para a roteirização, que me ajudou a estruturar o conteúdo de forma clara e objetiva. Para a edição e parte gráfica, usei o Canva, que me permitiu criar um design atraente e profissional. Com essas ferramentas, consegui desenvolver um material completo e acessível para iniciantes no crochê.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A parceria entre o ChatGPT e o Canva resultou em um ebook completo, com conteúdo claro e bem estruturado, além de um design atraente e profissional, proporcionando uma experiência fácil e acessível para iniciantes no crochê.
+[Link para o ebook](/exemplos/)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
 ### Exemplos e Insigths
