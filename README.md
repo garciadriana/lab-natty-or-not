@@ -9,6 +9,7 @@ IA Generativa do [Canva](https://canva.com) para criar a arte visual e edição 
 
 ## 🧐 Processo de Criação
 Eu criei este ebook utilizando o ChatGPT para a roteirização, que me ajudou a estruturar o conteúdo de forma clara e objetiva. Para a edição e parte gráfica, usei o Canva, que me permitiu criar um design atraente e profissional. Com essas ferramentas, consegui desenvolver um material completo e acessível para iniciantes no crochê.
+Prompts utilizados: "Escreva um título amigável para ebook, com o tema de Crochê para pessoas de nível iniciante"; "Crie um ebook, separado por temas básicos, que diga o básico para iniciar na prática do crochê"
 
 ## 🚀 Resultados
 A parceria entre o ChatGPT e o Canva resultou em um ebook completo, com conteúdo claro e bem estruturado, além de um design atraente e profissional, proporcionando uma experiência fácil e acessível para iniciantes no crochê.
